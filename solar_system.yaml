@@ -1,0 +1,10 @@
+sun_system:
+  distance_to_sun:
+  - mercury: 69.82
+  - venus: 108.16
+  - earth: 149.60
+  - mars: 227.99
+  - jupiter: 778.51
+  - saturn: 1433.40
+  - uranus: 2872.40
+  - neptune: 4495.00
